@@ -2,6 +2,13 @@
 
 Below you can find a list of vulnerabilties found & published within the Common Vulnerabilities and Exposures (CVE®) Program
 
+## 2022
+
+### Microsoft
+
+* [CVE-2022-2076](https://nvd.nist.gov/vuln/detail/CVE-2022-2076) - `8.8, High`
+* [CVE-2022-2077](https://nvd.nist.gov/vuln/detail/CVE-2022-2077) - `8.8, High`
+
 ## 2021
 
 ### Business-DNA TopEase (adressed in [Release 7.1.28](https://confluence.topease.ch/confluence/display/DOC/Release+Notes))
