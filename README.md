@@ -2,6 +2,16 @@
 
 Below you can find a list of vulnerabilties found & published within the Common Vulnerabilities and Exposures (CVE®) Program
 
+## 2023
+
+### MISP Threat Sharing (adressed in Releases [MISP.2.4.168](https://www.misp-project.org/2023/02/16/MISP.2.4.168.released.html/) and [MISP.2.4.169](https://www.misp-project.org/2023/03/14/MISP.2.4.169.released.html/))
+
+* [CVE-2023-28607](https://nvd.nist.gov/vuln/detail/CVE-2023-28607) - `6.1, Medium`
+* [CVE-2023-28606](https://nvd.nist.gov/vuln/detail/CVE-2023-28606) - `6.1, Medium`
+* [CVE-2023-24026](https://nvd.nist.gov/vuln/detail/CVE-2023-24026) - `6.1, Medium`
+* [CVE-2023-24027](https://nvd.nist.gov/vuln/detail/CVE-2023-24027) - `6.1, Medium`
+* [CVE-2023-24028](https://nvd.nist.gov/vuln/detail/CVE-2023-24028) - `9.8, Critical`
+
 ## 2022
 
 ### Microsoft
